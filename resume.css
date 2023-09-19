@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  background-color: #0c375f;
+  color: #fff;
+  padding: 20px;
+}
+
+
+header p {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+header a {
+  color: #003cff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+hr {
+  border: 1px solid #fff;
+  margin: 10px auto;
+  width: 50%;
+}
+
+section {
+  background-color: #82ea8b;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(83, 34, 34, 0.1);
+}
+
+li {
+  margin: 5px 0px;
+}
