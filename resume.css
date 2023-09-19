@@ -22,9 +22,17 @@ header a {
   color: #003cff;
   text-decoration: none;
   margin: 0 10px;
+  text-decoration: underline;
 }
 
-hr {
+section hr{
+  padding: 0px;
+  border: 1px solid #ffffff;
+  margin: 0px auto;
+  width: 50%;
+}
+
+header hr {
   border: 1px solid #fff;
   margin: 10px auto;
   width: 50%;
