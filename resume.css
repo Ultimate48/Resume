@@ -25,13 +25,6 @@ header a {
   text-decoration: underline;
 }
 
-section hr{
-  padding: 0px;
-  border: 1px solid #ffffff;
-  margin: 0px auto;
-  width: 50%;
-}
-
 header hr {
   border: 1px solid #fff;
   margin: 10px auto;
